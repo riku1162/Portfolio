@@ -36,6 +36,10 @@
 * Udon/U#<br>
     ワールドギミックの実装/検証<br>
     Udonがバグった時の代用スクリプトの作成など
+* ShaderLab,ASE,ShaderGraph<br>
+    Unityでのシステム上必要なShaderの作成<br>
+    演出用のShaderの作成、調整<br>
+    XR/MR用に調整など
 * C/C++<br>
     Ardino,Platform.ioでのEsp32やM5Stackでのシステム作成<br>
 * Java/Kotlin<br>
@@ -231,7 +235,7 @@
         * イベントの現地対応/設営
         * 機器の現地事前検証など
 
-* [「SNOW MIKU 2026」ヲタル座デジタルショー powered by XREAL](https://yukimiku-jrtwr.com/events/ar)
+* [「SNOW MIKU 2026」ヲタル座デジタルショー powered by XREAL](https://snowmiku.com/2026/location_wingbay.html)
     * 期間　2026/02/07 ~ 02/08
     * 担当　Unityエンジニア
     * 主な担当業務
@@ -240,6 +244,14 @@
         * パーティクル演出の作成、Timelineによるアニメーション作成
         * イベントの現地対応/設営
         * 現地映像、音響用のPCのセットアップ、スクリーンの調整、劇場の照明の調整
+
+* [「SNOW MIKU 2026」デジタルピアプロの壁](https://x.com/cfm_snowmiku/status/2020014666785730730)
+    * 期間　2026/02/07 ~ 02/08
+    * 担当　Unityエンジニア
+    * 主な担当業務
+        * 機能実装
+        * UIの追加実装
+        * イベントの現地対応/設営
 
 * [Sanrio Virtual Festival 2026 SOS団『涼宮ハルヒ』シリーズ](https://v-fes.sanrio.co.jp/artist/SOS)
     * 期間 2026/02/08 ~ 2026/03/08

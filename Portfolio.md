@@ -103,7 +103,7 @@
 
 ***
 
-* [ラブライブ！シリーズ 3D撮影会 ~lily white ライブ独占取材！~](https://www.hhcross.hankyu-hanshin.jp/events/jm_umeda2307_cp/)
+* [ラブライブ！シリーズ 3D撮影会 lily white ライブ独占取材！](https://www.hhcross.hankyu-hanshin.jp/events/jm_umeda2307_cp/)
     * 期間 2023/06/30　~　07/09
     * 担当 Unityエンジニア
     * 主な担当業務

@@ -111,6 +111,7 @@
         * MRの機能実装
         * 画像の保存チェキ印刷機能の実装
         * ギミック実装
+    * [参考動画URL](https://youtu.be/TLElve0673E?si=m1-GVwT4ivTwf_Bn&t=55)
 
 * [新潟まつり花火大会 初音ミク夜空プログラム2023 初音ミク千本桜3Dライブ撮影会](https://prtimes.jp/main/html/rd/p/000000124.000074603.html)
     * 期間 2023/08/04 ~ 08/06
@@ -121,6 +122,7 @@
         * MRの機能実装
         * ギミック実装
         * イベントの現地対応/設営
+    * [参考動画URL](https://youtu.be/alRzNnmuslY?si=hxT8m3cIpDcAwszR)
 
 * [れんずちゃんお披露目会](https://metacul-frontier.com/?p=9716)
     * 期間 2024/02/11
@@ -137,6 +139,7 @@
     * 主な担当業務
         * エフェクト演出政策
         * Timelineアニメーション制作
+    * [参考動画URL](https://youtu.be/E_skv78NJ1U?si=STya92NF0mR0EO_U&t=583) 9:40~12:15の演出を担当しました。
 
 * [ヘスティアMR膝枕体験会](https://www.moguravr.com/hestia-mr-sleep/)
     * 期間 2024/03/01 ~ 03/17
@@ -171,6 +174,7 @@
         * 一部Shaderの作成、調整
         * 複数端末の同時視聴通信システムの開発
         * イベントの現地対応/設営
+    * [参考動画URL](https://x.com/Gugenka_info/status/1822521509619065138?s=20)
 
 * [初音ミク夜空プログラム2024 デジタルピアプロの壁](https://yozora39.com/2024/event/piapro)
     * 期間　2024/08/09 ~ 2024/08/10
@@ -182,6 +186,7 @@
         * CM自動再生機能の開発
         * ペイントツール機能の開発改良
         * イベントの現地対応/設営
+    * [参考動画URL](https://youtu.be/NB0sAH51-sU?si=6av2pYmn0MOlGFvl)
 
 * [さともん MR体験コンテンツ](https://satomon.jp/20250623-2/)
     * 期間　不明
@@ -225,6 +230,7 @@
         * UIの実装
         * イベントの現地対応/設営
         * Timeline等の修正など
+    * [参考動画URL](https://youtu.be/PjY4bSd7AoI?si=ckqhXzjB1wV-p_h8&t=207)
 
 * [夜空プログラム2025 デジタル「ピアプロの壁」](https://yozora39.com/2025/events/piapro)
     * 期間 2025/09/13 ~ 09/15
@@ -234,6 +240,7 @@
         * 機能改善、修正
         * イベントの現地対応/設営
         * 機器の現地事前検証など
+    * [参考動画URL](https://x.com/Gugenka_info/status/1967041001903792302?s=20)
 
 * [「SNOW MIKU 2026」ヲタル座デジタルショー powered by XREAL](https://snowmiku.com/2026/location_wingbay.html)
     * 期間　2026/02/07 ~ 02/08
@@ -244,6 +251,7 @@
         * パーティクル演出の作成、Timelineによるアニメーション作成
         * イベントの現地対応/設営
         * 現地映像、音響用のPCのセットアップ、スクリーンの調整、劇場の照明の調整
+    * [参考動画URL](https://x.com/Gugenka_info/status/2019958631874376015?s=20)
 
 * [「SNOW MIKU 2026」デジタルピアプロの壁](https://x.com/cfm_snowmiku/status/2020014666785730730)
     * 期間　2026/02/07 ~ 02/08
@@ -271,6 +279,7 @@
         * AnimatorFXの実装
         * 一部アニメーションの修正、Animatisonパス変更ツールの作成
         * 各素材の組み込み、パッケージ化作業
+    * [参考動画URL](https://youtu.be/r-KoRirLPk4?si=rKnA2aXI5eCjX2Ir)
 
 ***
 
